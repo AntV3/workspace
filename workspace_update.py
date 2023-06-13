@@ -636,17 +636,6 @@ print('closed alerts connection', '\n', file = open('workspaceUpdateOutput.txt',
 
 except as exception
 ThreadError
-class  ();
-def laser():
-    pass
-laser = mustpass_laser(x=12,y=24,padx=10,pady=25) if LimitOverrunError run;
-loop();
-if  laser overload:
-    run last_traceback
-elif():
-    quit
-mainloop();
-
 
 except exception as err:
     print('elasticsearch error:'), err, '\n', file= open('workspaceUpdateOutput.txt', 'a'))
